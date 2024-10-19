@@ -10,7 +10,7 @@ import Contact from "./components/Contact";
 
 function App() {
   return (
-      <Router basename="/portofolio">
+    <Router basename="/myportofolio">
       <Navbar />
       <Routes>
         <Route path="/" element={<About />} /> {/* Add your other routes */}
