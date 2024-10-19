@@ -21,7 +21,7 @@ function Contact() {
           <FontAwesomeIcon icon={faLinkedin} className="contact-icon" />
           LinkedIn:{" "}
           <a href="https://www.linkedin.com/in/periyana1746" target="_blank" rel="noopener noreferrer" className="contact-link">
-            periyana1756
+            periyana1746
           </a>
         </li>
         <li>
